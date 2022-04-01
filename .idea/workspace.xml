@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.03.20][정민주]" />
+    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.03.20][정민주]">
+      <change afterPath="$PROJECT_DIR$/3. DFS_BFS/정민주/BOJ_10026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +57,7 @@
       <workItem from="1647237783863" duration="84000" />
       <workItem from="1647331698748" duration="44000" />
       <workItem from="1647702746598" duration="94000" />
+      <workItem from="1648126804264" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="[22.01.18][정재혁]">
       <created>1642512267735</created>
@@ -139,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647702832793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[22.03.20][정민주]">
+      <created>1648126861249</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648126861249</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
